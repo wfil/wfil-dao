@@ -4,9 +4,7 @@ Multisig Wallet (Gnosis Safe): [0x44443407e196298a0aD68207Aa93eA919df53961](http
 ## WFIL Protocol Addresses
 WFIL Token [0xd187c6c8c6aee0f021f92cb02887a21d529e26cb](https://etherscan.io/address/0xd187c6c8c6aee0f021f92cb02887a21d529e26cb#code)
 
-*WFIL Factory (Rinkeby) [0x556f8314a877d025a6bb7dbfe3dcc6e8934ed4ec](https://rinkeby.etherscan.io/address/0x556f8314a877d025a6bb7dbfe3dcc6e8934ed4ec#code)
-
-*to be launched soon on Mainnet!
+WFIL Factory [0x97A995E8b36A14C5586a19a99a282e9B53Ad890D](https://etherscan.io/address/0x97A995E8b36A14C5586a19a99a282e9B53Ad890D#code)
 
 ## Custodians
 |||Announcement|
